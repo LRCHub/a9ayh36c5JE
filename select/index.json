@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "柔く、ほどいて",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-11T01:44:46.338522Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "柔く、ほどいて (feat. 初音ミク & 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_柔く、ほどいて_(feat._初音ミク_&_重音テト)_MIMI.txt"
+    }
+  ]
+}
